@@ -1,3 +1,28 @@
+Name:Keerthana
+
+Company : Cognifyz Where Data Meets Intelligence
+
+Ref. : CTI/A1/C121336
+
+Domain : Machine Learning
+
+Duration:30/03/2025 and culminate on 30/04/2025
+
+Overview of the Project
+![Screenshot (21)](https://github.com/user-attachments/assets/751a9f44-0ae9-4d9e-9275-ee562192e61b)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/a7f9d7e8-ec9a-4fde-b674-926def2b708f)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/9b02250f-22bc-463c-9e58-e8800d510d27)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/40bbb601-1672-4436-afea-9268c2361589)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/52621fdf-890d-47d2-9364-c91b545cd5e7)
+
+
+Project : Location-Based Analysis
+
+
 📍 Geographical Analysis of Restaurants
 
 🧭 Objective
